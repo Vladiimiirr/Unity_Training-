@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51c3b1af67129e74ab9b899b1ddef90c, type: 3}
+  m_Name: New Question 1
+  m_EditorClassIdentifier: 
+  question: "\u041F\u0435\u0440\u0432\u044B\u0439 \u043F\u043E\u043B\u0435\u0442
+    \u0432 \u043A\u043E\u0441\u043C\u043E\u0441 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430?"
+  answer:
+  - 1962
+  - 1965
+  - 1961
+  - 1959
+  index: 2
